@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![QR_HexaTtech](../pages-qr-hexatech/qr-code-component-main/hexatech-desktop.jpg?raw=true "QR HexaTech")
+![QR_HexaTtech](hexatech-desktop.jpg?raw=true "QR HexaTech")
 
 ### Links
 
